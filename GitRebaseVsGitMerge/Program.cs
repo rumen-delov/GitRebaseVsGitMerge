@@ -7,6 +7,8 @@ namespace GitRebaseVsGitMerge
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // Feature 1 of User 1 
         }
     }
 }
